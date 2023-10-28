@@ -1,6 +1,9 @@
 # ECE444-F2023-Lab5
 Lab5-TDD (See the section at the end for Pros & Cons)
 
+Line 85 - 98 from app_test.py in this project is a unit test for searching functionality developed by me, Zhihan (Tim) Lin
+Also, the unit test fot "get all events" functionality for our Group Project 1 is also developed by Zhihan (Tim) Lin. Please see the README file under "develop" branch of our Group Project Github Repo.
+
 ## First Test
 ![First_Test_passed](https://github.com/tl07172/ECE444-F2023-Lab5/assets/84355002/e1d860c5-02e7-4d58-a7e4-3a9e3453869e)
 
