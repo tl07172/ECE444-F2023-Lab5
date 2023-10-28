@@ -81,7 +81,8 @@ def test_delete_message(client):
     rv = client.get('/delete/1')
     data = json.loads(rv.data)
     assert data["status"] == 1
-    
+
+# Test case written by Zhihan (Tim) Lin
 def test_search(client):
 
     # Create a test in the database
