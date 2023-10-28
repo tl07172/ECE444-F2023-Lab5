@@ -29,3 +29,17 @@ Lab5-TDD (See the section at the end for Pros & Cons)
 ## Webpage screenshot
 ![Web](https://github.com/tl07172/ECE444-F2023-Lab5/assets/84355002/b33ccf82-0a25-4c7b-afae-5c6c867fd803)
 
+# Pros & Cons of TDD
+## Pros:
+Better structure and more maintainable code --- TDD encourages developers to have a clear picture of the code structure before implementation, and allows them to write easily maintainable code.
+
+Easier debugging: Since unit tests are designed in a modular fashion before the actual code implementation, it is much easier and faster to track down the error and bug when facing issues with each test module. Different developers will be able to better collaborate with each other to debug the problem.
+
+Better collaboration: The modular design of TDD makes the collaboration between developers much easier and faster, since they can easily understand a specific chunk of code from other developer rahter than reading through hundreds lines of codes.
+
+## Cons:
+Slower implementation process: Since TDD starts with test implementation, it will make the initial process slower since the developers need to understand the functionality first and start creating tests for each functionality.
+
+Test suite Maintenance: With more functionalities being implemented, the size of the test suite will grow accordingly. Eventually the test suite can be really large and hard to maintain.
+
+Complicated set up process: Setting up the testing environment could also slow down the developing process, especially when the project itself is complicated.
